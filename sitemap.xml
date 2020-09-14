@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://bgaprogrammer.github.io/kaixoteam_web/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://kaxioteam.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://bgaprogrammer.github.io/kaixoteam_web/</loc>
+<loc>https://kaxioteam.com/</loc>
 </url>
 <url>
-<loc>https://bgaprogrammer.github.io/kaixoteam_web/nuestros-proyectos/</loc>
+<loc>https://kaxioteam.com/nuestros-proyectos/</loc>
 <lastmod>2020-09-14T20:56:40+02:00</lastmod>
 </url>
 </urlset>

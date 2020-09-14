@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>KaixoTeam</title>
-    <link href="https://bgaprogrammer.github.io/kaixoteam_web/feed.xml" rel="self" />
-    <link href="https://bgaprogrammer.github.io/kaixoteam_web" />
+    <link href="https://kaxioteam.com/feed.xml" rel="self" />
+    <link href="https://kaxioteam.com" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>kaixoteam</name>
     </author>
-    <id>https://bgaprogrammer.github.io/kaixoteam_web</id>
+    <id>https://kaxioteam.com</id>
 
     <entry>
         <title>[MysteryApp] v0.1</title>
         <author>
             <name>kaixoteam</name>
         </author>
-        <link href="https://bgaprogrammer.github.io/kaixoteam_web/nuestros-proyectos/"/>
-        <id>https://bgaprogrammer.github.io/kaixoteam_web/nuestros-proyectos/</id>
+        <link href="https://kaxioteam.com/nuestros-proyectos/"/>
+        <id>https://kaxioteam.com/nuestros-proyectos/</id>
 
-        <updated>2020-09-14T20:59:19+02:00</updated>
+        <updated>2020-09-14T21:00:39+02:00</updated>
             <summary>
                 <![CDATA[
                     Nos encontramos trabajando en la beta 0.0.0.1 de la aplicación...
