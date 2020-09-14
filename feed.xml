@@ -10,22 +10,22 @@
     <id>https://kaixoteam.com</id>
 
     <entry>
-        <title>[MysteryApp] v0.1</title>
+        <title>[MysteryApp]</title>
         <author>
             <name>kaixoteam</name>
         </author>
         <link href="https://kaixoteam.com/nuestros-proyectos/"/>
         <id>https://kaixoteam.com/nuestros-proyectos/</id>
 
-        <updated>2020-09-14T21:10:12+02:00</updated>
+        <updated>2020-09-14T21:13:38+02:00</updated>
             <summary>
                 <![CDATA[
-                    Nos encontramos trabajando en la beta 0.0.0.1 de la aplicación...
+                    Nos encontramos trabajando en la versión 0.0.0.0.0.0.0.0.0.1 de la aplicación...
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Nos encontramos trabajando en la beta 0.0.0.1 de la aplicación...</p>
+                <p>Nos encontramos trabajando en la versión 0.0.0.0.0.0.0.0.0.1 de la aplicación...</p>
             ]]>
         </content>
     </entry>
