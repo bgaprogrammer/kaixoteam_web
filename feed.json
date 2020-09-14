@@ -1,11 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "KaixoTeam",
+    "title": "KT",
     "description": "",
     "home_page_url": "https://kaixoteam.com",
     "feed_url": "https://kaixoteam.com/feed.json",
     "user_comment": "",
-    "icon": "https://kaixoteam.com/media/website/kaixo.png",
     "author": {
         "name": "kaixoteam"
     },
@@ -21,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-14T21:02:24+02:00",
-            "date_modified": "2020-09-14T21:02:24+02:00"
+            "date_published": "2020-09-14T21:09:28+02:00",
+            "date_modified": "2020-09-14T21:09:28+02:00"
         }
     ]
 }
