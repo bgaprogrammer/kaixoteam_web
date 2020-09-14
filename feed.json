@@ -5,9 +5,24 @@
     "home_page_url": "https://bgaprogrammer.github.io/kaixoteam_web",
     "feed_url": "https://bgaprogrammer.github.io/kaixoteam_web/feed.json",
     "user_comment": "",
+    "icon": "https://bgaprogrammer.github.io/kaixoteam_web/media/website/kaixo.png",
     "author": {
         "name": "kaixoteam"
     },
     "items": [
+        {
+            "id": "https://bgaprogrammer.github.io/kaixoteam_web/nuestros-proyectos/",
+            "url": "https://bgaprogrammer.github.io/kaixoteam_web/nuestros-proyectos/",
+            "title": "[MysteryApp] v0.1",
+            "summary": "Nos encontramos trabajando en la beta 0.0.0.1 de la aplicación...",
+            "content_html": "<p>Nos encontramos trabajando en la beta 0.0.0.1 de la aplicación...</p>",
+            "author": {
+                "name": "kaixoteam"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-14T20:59:19+02:00",
+            "date_modified": "2020-09-14T20:59:19+02:00"
+        }
     ]
 }

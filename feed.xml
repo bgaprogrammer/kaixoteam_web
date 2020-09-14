@@ -9,4 +9,24 @@
     </author>
     <id>https://bgaprogrammer.github.io/kaixoteam_web</id>
 
+    <entry>
+        <title>[MysteryApp] v0.1</title>
+        <author>
+            <name>kaixoteam</name>
+        </author>
+        <link href="https://bgaprogrammer.github.io/kaixoteam_web/nuestros-proyectos/"/>
+        <id>https://bgaprogrammer.github.io/kaixoteam_web/nuestros-proyectos/</id>
+
+        <updated>2020-09-14T20:59:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Nos encontramos trabajando en la beta 0.0.0.1 de la aplicación...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Nos encontramos trabajando en la beta 0.0.0.1 de la aplicación...</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
